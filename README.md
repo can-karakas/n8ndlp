@@ -34,4 +34,4 @@ Tip: To allow your workflow to send notifications, you’ll need to create a Sla
 -Advanced prevention, automatically deactivate workflows containing violations. (Use deactive workflow node on N8N)
 
 # Please feel free to contact if you require any further information.
-# Linkedin: https://www.linkedin.com/in/cankarakas/
+Linkedin: https://www.linkedin.com/in/cankarakas/
