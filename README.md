@@ -4,9 +4,9 @@ This project creates a DLP system using N8N's own capabilities to prevent data l
 Step-by-Step Setup
 
 1. Trigger and Rules: 
-  1.1 Create a trigger in N8N for daily automated scans.
-  1.2 Prepare a Google Sheet with RegEx rules for sensitive data patterns.
-  1.3 Configure a node in N8N to read these rules.
+  - Create a trigger in N8N for daily automated scans.
+  - Prepare a Google Sheet with RegEx rules for sensitive data patterns.
+  - Configure a node in N8N to read these rules.
   1.4 Set up a Service Account or OAuth 2.0 credentials for N8N.
   Tip 1: Create a sheet using the exact column headers shown in the screenshot below to ensure the workflow can read the rules correctly. (You can use Sample N8N Sheet.xlsx file)
   Tip 2: You must configure Service Account or OAuth 2.0 credentials within n8n. For automated, server-side workflows like this, using a Service Account is the recommended approach.
